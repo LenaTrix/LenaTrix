@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @LenaTrix
-- 👀 I’m basically new to programming world
-- 🌱 I’m currently learning DSA C++. I am interested in learning python in future as my main language. 
+-  Hi, I’m Lena
+-  I’m basically new to programming world
+-  I’m currently learning DSA C++. I am interested in learning python in future as my main language. 
 
 
 <!---
